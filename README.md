@@ -39,6 +39,7 @@ shutdown /r /t 0
 ## 步骤五
 * 结束,如果还没好可以选择给我发邮件进行付费远程指导
 * 邮箱:<China@ClairFroid.asia>
-* 有用的话赞赏点吧😋🥰
+---
+# 有用的话赞赏点吧😋🥰
 <img width="1182" height="1772" alt="支付宝" src="https://github.com/user-attachments/assets/a137cbbb-2635-489c-b88b-149643645e9e" />
 <img width="1501" height="2073" alt="mmexport1790568479118" src="https://github.com/user-attachments/assets/b7c96a7c-8322-4cf9-bd22-7e10d440ff90" />
